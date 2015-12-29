@@ -1,10 +1,10 @@
-Guangzhou, Guangdong, China
+Awesome Guangzhou, Guangdong, China [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about Guangzhou, Guangdong, China. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in Guangzhou, Guangdong, China. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in Guangzhou, Guangdong, China
+Top 15 programmers in Guangzhou, Guangdong, China
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in Guangzhou, Guangdong, China.
+These are the 15 most influential programmers in Guangzhou, Guangdong, China. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. M了个J [@CoderMJLee](https://github.com/CoderMJLee) (44)
 2. Jack [@xhzengAIB](https://github.com/xhzengAIB) (37)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. 子熏 [@lvzixun](https://github.com/lvzixun) (19)
 15. 涛 [@zhaozhentao](https://github.com/zhaozhentao) (19)
 
-You can find the comprehensive statistics at the page for [Guangzhou, Guangdong, China](http://programmermap.com/area/guangzhou-guangdong-china) at programmermap.com.
+You can find comprehensive statistics at the page for [Guangzhou, Guangdong, China](http://programmermap.com/area/guangzhou-guangdong-china) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [PNChart](https://github.com/kevinzhow/PNChart) (4494)
+2. [MJRefresh](https://github.com/CoderMJLee/MJRefresh) (2925)
+3. [MJExtension](https://github.com/CoderMJLee/MJExtension) (2142)
+4. [bootstrap-table](http://bootstrap-table.wenzhixin.net.cn) (2026)
+5. [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) (1841)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
